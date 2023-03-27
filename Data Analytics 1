@@ -1,5 +1,6 @@
 Data Analytics using Python
 Data Analytics 1
+Python code file name: Data Analysis 1 - Students_performance_data.ipynb
   1. Analysing data using Studentsperformance csv file
      1. Importing major libraries
      2. Import data into python
@@ -19,5 +20,20 @@ Data Analytics 1
      9. stacked bar
      10. visualization using seaborn, sns package 
      11. visualization using matplotlib, plt package
-  3. Python code file is uploded with name: Data Analysis 1 - Students_performance_data
-  4. 
+  
+  Python code file (feature engineering ): DA1 Feature engineering.ipynb
+ 
+ 1. import libraries
+ 2. import data
+ 3. creating new variables(feature engineering) using the condition
+ 4. computing the total score for each student
+ 5. computing percentage for each of the students
+ 6. finidng the status of students by,
+    1. if a student fails on 3 paper then he/ she fails in that semester
+    2. otherwise everyone pass
+ 7. Assigning grades to the percentage
+ 8. plotting a pie chart for the distribution of various grades amongst the students
+ 9. comparison parent's degree and their corresponding grades
+ 10. comparing the distribution of grades among males and female
+ 11. transforming all categorical variables to numerical by using label encoding
+ 12. if we encode the data, we can move for many different types of analysis

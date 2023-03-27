@@ -1,5 +1,23 @@
 Data Analytics using Python
 Data Analytics 1
   1. Analysing data using Studentsperformance csv file
-  2. python file is uploded with name Data Analysis 1 - Students_performance_data
-  3. 
+     1. Importing major libraries
+     2. Import data into python
+     3. Checking the structure of the data
+     4. Univariable and Bivariable data visualization using Matplotlib and Seaborn libraries, also pandas for tabulations
+         1. pie diagram for Gender
+         2. Bar plot for parental level of education
+         3. Continuous variable analysis
+             1. to find the minimum math score
+             2. to find the maximum reading score
+             3. to find the average writing score
+             4. histogram to show the skewness of data
+     5. Bivariable analysis
+     6. correlation analysis
+     7. crosstabulation
+     8. Mulitiple bar diagrams
+     9. stacked bar
+     10. visualization using seaborn, sns package 
+     11. visualization using matplotlib, plt package
+  3. Python code file is uploded with name: Data Analysis 1 - Students_performance_data
+  4. 
